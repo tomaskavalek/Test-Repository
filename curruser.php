@@ -1,2 +1,2 @@
 <?php
-	echo 'Current script owner: ' . get_current_user();
+	echo 'Current script owner is ' . get_current_user();
